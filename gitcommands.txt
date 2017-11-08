@@ -3,3 +3,8 @@ ls- to show the files inside the directory which u are on
 git init - to make the directory as  git directory
 git help - to get any help
 git config --list - to see the settings
+git log - to see the commits made by you
+git log --author "Name" - to see the commits made by a particular person
+git status - to see the changes, suppose u have committed the file and new file has been added when u do status, it will show the difference
+git add. - to add the directories, git commit is needed after this process
+git add file.extension - to add the particular file. 
