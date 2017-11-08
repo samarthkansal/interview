@@ -1,0 +1,5 @@
+pwd- to show which directory are we on 
+ls- to show the files inside the directory which u are on
+git init - to make the directory as  git directory
+git help - to get any help
+git config --list - to see the settings
